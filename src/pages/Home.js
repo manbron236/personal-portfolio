@@ -9,7 +9,7 @@ function Home() {
 
       {/* 자기소개 */}
       <p className="intro-text">
-        Web Developer | Passionate about creating clean and functional designs.
+        AI & Web Developer
       </p>
 
       {/* 링크 목록 */}
