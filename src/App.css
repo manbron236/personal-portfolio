@@ -1,0 +1,42 @@
+/* 기본 다크 모드 스타일 (전역 적용) */
+body.dark-mode {
+    background-color: #222;
+    color: white;
+  }
+  
+  /* 다크 모드에서 링크 색상 변경 */
+  body.dark-mode a {
+    color: white;
+  }
+
+  body.dark-mode .name-title {
+    color: white;
+  }
+
+  body.dark-mode .intro-text {
+    color: white;
+  }
+
+  body.dark-mode .social-links a:hover {
+    border-bottom: 2px solid white;
+  }
+  
+  /* 다크 모드에서 버튼 스타일 */
+  body.dark-mode .download-btn {
+    border: 2px solid white;
+    color: white;
+  }
+  
+  body.dark-mode .download-btn:hover {
+    background-color: white;
+    color: black;
+  }
+  
+  body.dark-mode .download-btn a {
+    color: white;
+  }
+  
+  body.dark-mode .download-btn:hover a {
+    color: black;
+  }
+  

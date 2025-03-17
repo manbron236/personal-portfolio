@@ -1,7 +1,7 @@
 import React from "react";
 
-function Projects() {
+function Project() {
   return <h1>프로젝트</h1>;
 }
 
-export default Projects;
+export default Project;
