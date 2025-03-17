@@ -1,7 +1,12 @@
 import React from "react";
+import "../styles/About.css"
 
 function About() {
-  return <h1>소개 페이지</h1>;
+  return (
+    <div className="about-container">
+      <h1 className="title">About Me</h1>
+    </div>
+  );
 }
 
 export default About;
