@@ -8,7 +8,7 @@ function About() {
       {/* 프로필 + 자기소개 */}
       <div className="about-card">
         <div className="profile-picture">
-          <img src={profileimg} alt="프로필 사진" />
+          <img src={profileimg} alt="프로필 사진" onContextMenu={(e) => e.preventDefault()} draggable="false" style={{ userSelect: "none", pointerEvents: "none" }} />
         </div>
         <div className="about-text">
           <h2>MIN JUN CHO</h2>
