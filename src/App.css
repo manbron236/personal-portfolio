@@ -20,6 +20,14 @@ body.dark-mode .intro-text {
 body.dark-mode .social-links a:hover {
   border-bottom: 2px solid white;
 }
+
+body.dark-mode .email {
+  color: white;
+}
+
+body.dark-mode .email:hover {
+  border-bottom: 2px solid white;
+}
   
 /* 다크 모드에서 버튼 스타일 */
 body.dark-mode .download-btn {

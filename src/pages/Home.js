@@ -16,7 +16,7 @@ function Home() {
       <div className="social-links">
         <a href="https://github.com/manbron236" target="_blank" rel="noopener noreferrer">GitHub</a>
         <a href="https://manbron.tistory.com/" target="_blank" rel="noopener noreferrer">Blog</a>
-        <a href="minjuncho@naver.com">Email</a>
+        <a href={`mailto:minjuncho@naver.com`}>Email</a>
       </div>
 
       {/* 포트폴리오 PDF 다운로드 버튼 */}
