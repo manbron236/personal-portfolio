@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Wherezit",
+    "date": "2023.09",
+    "description": "외국인을 위한 강릉 관광지 정보 제공 서비스",
+    "domain": "",
+    "stack": ["Python", "Flask", "Resnet", "Tensorflow"],
+    "readme": "/readmes/wherezit.md",
+    "images": ["/images/wz1.png", "/images/wz2.png"]
+  },
+  {
+    "title": "Handy Caddy",
+    "date": "2024.03~ 2024.06",
+    "description": "골프 스윙 분석 및 학습 보조 앱 개발",
+    "domain": "",
+    "stack": ["Python", "Tensorflow", "Movenet"],
+    "readme": "/readmes/handycaddy.md",
+    "images": ["/images/handycaddy.png"]
+  },
+  {
+    "title": "Inje Festival Admin Page",
+    "date": "2024.08 ~ 2024.10",
+    "description": "2024 인제 가을 꽃 축제 관리자 페이지 제작",
+    "domain": "",
+    "stack": ["MariaDB", "MongoDB", "FastAPI", "React"],
+    "readme": "/readmes/inje.md",
+    "images": ["/images/inje.png"]
+  },
+  {
+    "title": "RealTime People Counting System",
+    "date": "2024.10 ~ 2024.11",
+    "description": "Yolo 기반 실시간 인원 측정 시스템 개발",
+    "domain": "",
+    "stack": ["Python", "YOLOv8", "OpenCV", "SQLite", "PyQt5"],
+    "readme": "/readmes/yolo.md",
+    "images": ["/images/maskvision.png"]
+  },
+  {
+    "title": "Stable Diffusion",
+    "date": "2024.12 ~ 2025.01",
+    "description": "Stable Diffusion API 기반 이미지 생성 시스템 개발",
+    "domain": "",
+    "stack": ["Python", "FastAPI", "Stable Diffusion"],
+    "readme": "/readmes/stable.md",
+    "images": ["/images/maskvision.png"]
+  },
+  {
+    "title": "BackOffice Page",
+    "date": "2025.01 ~ 2025.02",
+    "description": "오썸피아 사내 클라이언트용 백오피스 페이지 제작",
+    "domain": "",
+    "stack": ["React", "SpringBoot", "MariaDB"],
+    "readme": "/readmes/backoffice.md",
+    "images": ["/images/maskvision.png"]
+  }
+]

@@ -16,12 +16,14 @@
   .dark-mode-toggle {
     padding: 8px 16px;
     background-color: #ddd;
+    border: 2px solid black;
     border-radius: 8px;
     cursor: pointer;
   }
   
   .dark-mode .dark-mode-toggle {
     background-color: #555;
+    border: 2px solid white;
   }
   
   /* 네비게이션 링크 스타일 */

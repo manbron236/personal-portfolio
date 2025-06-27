@@ -4,7 +4,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 100vh; /* 화면 높이 100% */
+  height: 75vh;
   text-align: center;
   color: #000000; /* 블랙 텍스트 */
 }
@@ -40,6 +40,18 @@
 }
 
 .social-links a:hover {
+  border-bottom: 2px solid black;
+}
+
+.email{
+  font-size: 1rem;
+  font-weight: bold;
+  color: #000000;
+  border-bottom: 2px solid transparent;
+  transition: all 0.3s ease;
+}
+
+.email:hover {
   border-bottom: 2px solid black;
 }
 
