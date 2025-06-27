@@ -1,5 +1,5 @@
 // About.js
-import React, { useEffect, useState } from "react";
+import React from "react";
 import "../styles/About.css";
 import profileData from "../json/aboutData.json";
 
